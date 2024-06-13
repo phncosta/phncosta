@@ -12,15 +12,6 @@
 - 👨‍💻 Most of the time **I'm programming at work**; some public repos might be quite old
 
 - 📫 How to reach me **phncosta@outlook.com**
-
-<p align=center>
-  <a
-    href="https://www.linkedin.com/in/phncosta" 
-    alt="LinkedIn"
-    target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
   
 <h3 align="left">Languages and Tools:</h3>
 <p> 
