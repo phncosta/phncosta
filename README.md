@@ -1,9 +1,9 @@
-<h3 align="center">Hi there 👋, I'm Paulo</h3>
+<h3 align="center">Hi there, I'm Paulo ⚡</h3>
 <h4 align="center">Backend Software Engineer | C# .NET Specialist</h4>
 
 - 🔭 I’m currently working at **a multinational company**
 
-- 📄 My main experiences are **backend development, web services, data integrations, multithreaded applications, full-stack development**
+- 📄 My main experiences are **backend development, web services, multithreaded applications & full-stack development**
 
 - 🌱 I speak **English and Portuguese**
 
