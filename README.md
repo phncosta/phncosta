@@ -19,7 +19,6 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-flat&logo=csharp&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-flat&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-flat&logo=angularjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-flat&logo=microsoftazure&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-flat&logo=bootstrap&logoColor=white)
