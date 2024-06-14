@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **a multinational company**
 
-- 📄 I'm experienced at **backend development, web services, multithreaded applications & full-stack development**
+- 📄 I'm experienced in **backend development, web services, multithreaded applications & full-stack development**
 
 - 🌱 I speak **English and Portuguese**
 
