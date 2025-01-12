@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm Paulo ⚡</h3>
-<h4 align="center">Backend Software Engineer | C# .NET Specialist</h4>
+<h4 align="center">Backend Software Engineer</h4>
 
 - 🔭 I’m currently working at **a multinational company**
 
